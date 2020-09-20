@@ -11,6 +11,7 @@ cd crud-array
 ```
 
 1. **Run**
+<br>
 You can run it by open the index.html file or command this in your terminal : 
 ```bash
 google-chrome index.html
