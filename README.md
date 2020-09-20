@@ -10,8 +10,8 @@ git clone https://github.com/NichiNect/vuejs2-crud-array.git crud-array
 cd crud-array
 ```
 
-1. **Run**
-<br>
+2. **Run**
+
 You can run it by open the index.html file or command this in your terminal : 
 ```bash
 google-chrome index.html
